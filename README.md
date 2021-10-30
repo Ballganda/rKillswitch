@@ -11,6 +11,7 @@ This batch project uses route.exe to set static routes that send all traffic to 
 # How To Use:
 
 **To enable the kill switch**
+
 **To disable the kill switch**
 
 # Donation:
